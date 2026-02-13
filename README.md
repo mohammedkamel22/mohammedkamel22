@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohamed The Analyst
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m Mohamed full stack developer
+- 👀 I’m interested in create things that would be usefull to users
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
